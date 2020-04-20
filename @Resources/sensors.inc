@@ -27,3 +27,11 @@ GPUSensorInstance=0x0
 GPULoadEntry=0x7000000              ;GPU Core load
 GPUFanSpeedEntry=0x3000000          ;GPU Fan (RPM)
 GPUTempEntry=0x1000000              
+
+; DISK C Sensor (Drive:...)
+DiskCSensor=0xf0000101
+DiskCSensorInstance=0x0
+
+; DISK D Sensor (Drive:...)
+DiskDSensor=0xf0000101
+DiskDSensorInstance=0x1
