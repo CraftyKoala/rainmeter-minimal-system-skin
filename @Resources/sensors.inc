@@ -11,6 +11,8 @@ CPUESensor=0xf0000501
 CPUESensorInstance=0x0
 CPUEDieTempEntry=0x1000000
 
+CPUTempWarningLevel=80 ; temp warning in C
+
 ;System Sensor (Memory)
 MemSensor=0xf0000301
 MemSensorInstance=0x0
